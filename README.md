@@ -1,5 +1,3 @@
-The-ForgeC
-
 A record of my C projects and exercises — built while learning through FreeCodeCamp, CS50, and independent practice.
 
 🎯 Purpose
